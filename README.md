@@ -127,13 +127,6 @@ So instead of building another tutorial website, I decided to build a game.
 The goal wasn't just to teach Git—it was to make learning feel rewarding and memorable.
 
 
-
----
-
-## 🌐 Live Demo
-
-**Coming Soon**
-
 ---
 
 ## 🤝 Feedback
